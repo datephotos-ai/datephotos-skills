@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dating Profile Coach"
+  short_description: "Rank your dating photos, check Tinder/Hinge/Bumble photo and AI rules, and tighten your bio."
+  default_prompt: "Use $dating-profile-coach on my Hinge profile: pick my lead photo, check the photos against Hinge's rules, and rewrite my bio."
